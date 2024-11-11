@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer utilities{
+    
+    
+    .background{
+        @apply bg-[url('images/hero.png')]
+        bg-center bg-no-repeat w-full h-full  bg-cover border-l-[30px] border-red-600 
+        
+   
+        
+    
+}
+
+
+
+
+}
